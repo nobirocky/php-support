@@ -1,0 +1,3 @@
+---
+- name: "Apache - Enabling PhP Support"
+  shell: amazon-linux-extras install php7.4 -y
